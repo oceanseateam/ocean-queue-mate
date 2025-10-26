@@ -1,4 +1,4 @@
-module git.tghzs.net/common/queue-mate
+module github.com/oceanseateam/ocean-queue-mate
 
 go 1.17
 
